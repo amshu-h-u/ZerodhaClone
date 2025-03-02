@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#superhero input{
+  padding:20px 50px;
+     width: 100%;
+     font-size: 20px;
+     border-radius: 10px;
+     border: none;
+
+}
+#supportwrapper{
+  display: flex;
+  justify-content: space-between;
+  margin:0 150px
+}
