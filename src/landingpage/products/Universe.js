@@ -1,10 +1,10 @@
 import React from 'react';
-function SignUp() {
+function Universe() {
     return ( 
         <>
-        <h1>SignUp</h1>
+        <h1>Universe</h1>
         </>
      );
 }
 
-export default SignUp;
+export default Universe;
